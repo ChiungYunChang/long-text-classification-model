@@ -21,8 +21,8 @@ Previous study defined long text as texts that exceed the length of 512 tokens:
 * Beltagy, I., Peters, M. E., & Cohan, A. (2020). Longformer: The long-document transformer. arXiv preprint arXiv:2004.05150
 [Longformer](https://arxiv.org/abs/2004.05150)
 
-* Singh, A., Sha, J., Narayan, K. S., Achim, T., & Abbeel, P. (2014, May). Bigbird: A large-scale 3d database of object instances. In 2014 IEEE international conference on robotics and automation (ICRA) (pp. 509-516). IEEE.
-[Bigbird](https://proceedings.neurips.cc/paper/2020/file/c8512d142a2d849725f31a9a7a361ab9-Paper.pdf)
+* Manzil Zaheer, Guru Guruganesh, Avinava Dubey, Joshua Ainslie, Chris Alberti, Santiago Ontanon, Philip Pham, Anirudh Ravula, Qifan Wang, Li Yang, and Amr Ahmed. 2020. Big bird: transformers for longer sequences. In Proceedings of the 34th International Conference on Neural Information Processing Systems (NIPS'20). Curran Associates Inc., Red Hook, NY, USA, Article 1450, 17283–17297.
+[Bigbird](https://dl.acm.org/doi/abs/10.5555/3495724.3497174)
 
 
 
