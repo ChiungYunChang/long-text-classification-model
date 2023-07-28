@@ -18,6 +18,12 @@ Previous study defined long text as texts that exceed the length of 512 tokens:
 * Wagh, V., Khandve, S., Joshi, I., Wani, A., Kale, G., & Joshi, R. (2021, December). Comparative study of long document classification. In TENCON 2021-2021 IEEE Region 10 Conference (TENCON) (pp. 732-737). IEEE.
 [Comparative study of long document classification](https://ieeexplore.ieee.org/iel7/9707139/9707180/09707465.pdf)
 
+* Beltagy, I., Peters, M. E., & Cohan, A. (2020). Longformer: The long-document transformer. arXiv preprint arXiv:2004.05150
+[Longformer](https://arxiv.org/abs/2004.05150)
+
+* Singh, A., Sha, J., Narayan, K. S., Achim, T., & Abbeel, P. (2014, May). Bigbird: A large-scale 3d database of object instances. In 2014 IEEE international conference on robotics and automation (ICRA) (pp. 509-516). IEEE.
+[Bigbird](https://proceedings.neurips.cc/paper/2020/file/c8512d142a2d849725f31a9a7a361ab9-Paper.pdf)
+
 
 
 ----------------------------------------------------------------
