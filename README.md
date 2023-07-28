@@ -1,7 +1,8 @@
 # long-text-classification-model
 Implement longformer, bigbird
+----------------------------------------------------------------
 
-## The classification of long texts, defined as texts that exceed the length of 512 tokens, presents challenges in NLP tasks. 
+The classification of long texts, defined as texts that exceed the length of 512 tokens, presents challenges in NLP tasks. 
 
 Previous study defined long text as texts that exceed the length of 512 tokens: 
 * Sun, C., Qiu, X., Xu, Y., & Huang, X. (2019). How to fine-tune bert for text classification?. In Chinese Computational Linguistics: 18th China National Conference, CCL 2019, Kunming, China, October 18–20, 2019, Proceedings 18 (pp. 194-206). Springer International Publishin
