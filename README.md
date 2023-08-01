@@ -1,4 +1,4 @@
-# long-text-classification-model
+# long text classification model
 
 
 The classification of long texts, defined as texts that exceed the length of 512 tokens, presents challenges in NLP tasks. 
